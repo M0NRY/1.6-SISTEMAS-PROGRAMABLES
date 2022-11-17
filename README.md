@@ -1,11 +1,7 @@
 # 1.6-SISTEMAS-PROGRAMABLES
-
 *PANTALLA OLED*
-
 # CODIGO:
-
 ```
-
 import board
 import displayio
 import terminalio
