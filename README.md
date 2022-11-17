@@ -1,7 +1,8 @@
 # 1.6-SISTEMAS-PROGRAMABLES
 *PANTALLA OLED*
 # CODIGO:
-```
+
+
 import board
 import displayio
 import terminalio
@@ -54,6 +55,5 @@ print("Done! Press Ctrl+C to get into the REPL")
 while True:
     time.sleep(1)
 
-```
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/112371036/202580806-16ac2651-4e04-48e0-a481-76dc129ab04a.gif)
