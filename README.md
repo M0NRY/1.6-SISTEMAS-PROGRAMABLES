@@ -2,7 +2,7 @@
 
 *PANTALLA OLED*
 
-**CODIGO:**
+# CODIGO:
 
 ```
 
